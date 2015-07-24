@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListViewPrueba</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="adobe_products">datos</string>
+    <string name="title_activity_segunda">SegundaActivity</string>
+    <string name="title_activity_app">AppActivity</string>
+</resources>
